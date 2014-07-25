@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array/>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Users/Shared/OSInstallers/OS X 10.9.3/Install OS X Mavericks.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>Macintosh HD</string>
+</dict>
+</plist>
