@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Applications/GarageBand.app</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandCoreContent.pkg</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandPremiumContent.pkg</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsSongWriter.pkg</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsAlternative.pkg</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRock.pkg</string>
+		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRnB.pkg</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

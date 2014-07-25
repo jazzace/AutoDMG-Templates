@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Users/Shared/Templates/internet.adtmpl</string>
+        <string>/Users/Shared/Templates/iLife.adtmpl</string>
+        <string>/Users/Shared/Templates/iWork2013.adtmpl</string>
+    </array>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Users/Shared/Installers/create_tech_2014.pkg</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

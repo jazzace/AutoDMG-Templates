@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>SourcePath</key>
+    <string>/Users/Shared/InstaCurrent/InstallerFiles/Base12F45/InstallESD.dmg</string>
+    <key>VolumeName</key>
+    <string>IAML-ML</string>
+    <key>ApplyUpdates</key>
+    <true/>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Users/Shared/Templates/iaml_payload_debug.adtmpl</string>
+    </array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

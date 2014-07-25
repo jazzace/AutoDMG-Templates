@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Users/Shared/Installers/iDVD final.pkg</string>
+		<string>/Users/Shared/Installers/iDVDExtraContent.pkg</string>
+		<string>/Applications/iMovie.app</string>
+		<string>/Applications/iPhoto.app</string>
+		<string>/Users/Shared/Installers/RAWCameraUpdate5.05.dmg</string>
+	</array>
+	<key>IncludeTemplates</key>
+	<array>
+		<string>/Users/Shared/Templates/GarageBand2013.adtmpl</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

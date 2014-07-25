@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Users/Shared/Templates/tech-labs.adtmpl</string>
+        <string>/Users/Shared/Templates/fau-labs.adtmpl</string>
+        <string>/Users/Shared/Templates/Office2011_no_Outlook.adtmpl</string>
+        <string>/Users/Shared/Templates/internet.adtmpl</string>
+        <string>/Users/Shared/Templates/iLife.adtmpl</string>
+        <string>/Users/Shared/Templates/iWork2013.adtmpl</string>
+        <string>/Users/Shared/Templates/notation.adtmpl</string>
+        <string>/Users/Shared/Templates/modelling.adtmpl</string>
+        <string>/Users/Shared/Templates/audio.adtmpl</string>
+        <string>/Users/Shared/Templates/video-animation.adtmpl</string>
+        <string>/Users/Shared/Templates/printers-iaml.adtmpl</string>
+    </array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>
