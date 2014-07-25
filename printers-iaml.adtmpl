@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Users/Shared/Installers/EPSONPrinterDrivers.pkg</string>
+		<string>/Users/Shared/Installers/XeroxPrinter3.0.1.dmg</string>
+		<string>/Users/Shared/Installers/EPSON 3880 9.17.pkg</string>
+		<string>/Users/Shared/Installers/EPSON Printer 9900 9.17.pkg</string>
+	</array>
+</dict>
+</plist>
