@@ -8,7 +8,13 @@
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/clearReg.pkg</string>
 		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/TextWrangler.pkg</string>
 	</array>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Volumes/IAML-AutoDMG/Users/Shared/OSInstallers/OS X 10.10.current/Install OS X Yosemite.app</string>
 	<key>TemplateFormat</key>
 	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>Macintosh HD</string>
 </dict>
 </plist>

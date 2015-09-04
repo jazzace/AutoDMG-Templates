@@ -4,9 +4,10 @@
 <dict>
     <key>IncludeTemplates</key>
     <array>
-        <string>/Users/Shared/Templates/internet.adtmpl</string>
-        <string>/Users/Shared/Templates/iLife.adtmpl</string>
-        <string>/Users/Shared/Templates/iWork2013.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/internet.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/iLife.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/iWorkCurrent.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/Office2011_no_Outlook.adtmpl</string>
     </array>
 	<key>AdditionalPackages</key>
 	<array>

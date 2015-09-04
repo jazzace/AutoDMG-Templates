@@ -4,7 +4,7 @@
 <dict>
     <key>IncludeTemplates</key>
     <array>
-        <string>/Users/Shared/Templates/loaner_payload.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/loaner_payload.adtmpl</string>
     </array>
 	<key>ApplyUpdates</key>
 	<true/>

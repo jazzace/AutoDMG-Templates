@@ -4,8 +4,9 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Users/Shared/Installers/Office 2011 14.4.1.pkg</string>
-		<string>/Users/Shared/Installers/Office2Templ.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/Office 2011 14.4.1.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/Office2Templ.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/Office2011_update.pkg</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

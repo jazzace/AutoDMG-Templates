@@ -2,67 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/LogicProMainAudio.adtmpl</string>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/LogicProAlchemy.adtmpl</string>
+    </array>
 	<key>AdditionalPackages</key>
 	<array>
 		<string>/Applications/Logic Pro X.app</string>
-		<string>/Users/Shared/Installers/ProAudioCoreContent10 sha1-91cbb9034421b231747f4cc60bc9b3234ff07765.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_StereoDrumKitsSongwriter sha1-bcfdc179e518f5299d7b98dcbc075c05b5a990a8.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_StereoDrumKitsAlternative.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_StereoDrumKitsRock sha1-cc6ae92233fe94c26e816fdd090b93c2d984740e.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_StereoDrumKitsRockB sha1-0e569ed972d366bdff092591cd1214f6be6d4612.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_StereoDrumKitsRnB sha1-56b4cd1b9f5775f56bd56943b8b61061b2da5217.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerPatches sha1-01ec540f044a168df27fcc29fc024b7b4be67d5c.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerClassicSixtiesKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerModernMapleKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerPawnShopKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerBirchKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerStadiumKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerSeventiesPlexiKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerTightMapleKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ProducerStudioKit.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_ElectronicDrumKits.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsHipHop.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsElectroHouse.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsDubstep.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsModernRnB.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsTechHouse.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsDeepHouse.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_AppleLoopsChillwave.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralBrass.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralChoir.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralHarp.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralKeyboard.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralPercussion.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralPipeOrgan.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralStrings.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsOrchestralWoodwinds.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsWorldKeyboards.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsWorldPercussion.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsWorldStringed.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsWorldVoice.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsWorldWoodwind.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsBass sha1-2612a6fa3566deea231255542e3db1091cec2070.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsGuitar sha1-9325a1b32364b279821768f45a2cca1fe154ca89.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsMallet.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_InstrumentsPiano.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_IRsStereo.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioCurrent/MAContent10_IRsSurround.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_Logic9Legacy.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/GarageBandBasicContent.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_GarageBand6Legacy.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/JamPack1.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/RemixTools_Instruments.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/RhythmSection_Instruments.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/JamPack4_Instruments.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/WorldMusic_Instruments.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/Voices_Instruments.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacy1.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacyRemix.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacyRhythm.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacySymphony.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacyWorld.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MAContent10_AppleLoopsLegacyVoices.pkg</string>
-		<string>/Users/Shared/Installers/LogicProAudioLegacy/MGBContentCompatibility.pkg</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Applications/GarageBand.app</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_GarageBandCoreContent_v3.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsChillwave.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsDeepHouse.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsDubstep.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsElectroHouse.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsGarageBand.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsHipHop.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsJamPack1.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsModernRnB.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsRemixTools.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsRhythmSection.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsSymphony.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsTechHouse.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_PremiumPreLoopsWorld.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2015/MAContent10_GarageBandCoreContent2.pkg</string>
+<!--		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBandExtraContent.pkg</string>  -->
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandPremiumContent.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsSongWriter.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsAlternative.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRock.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRnB.pkg</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

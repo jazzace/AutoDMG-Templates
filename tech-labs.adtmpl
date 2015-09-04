@@ -4,12 +4,11 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Users/Shared/Installers/IPFirewall11.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/IPFirewall11.pkg</string>
 	</array>
 	<key>IncludeTemplates</key>
 	<array>
-		<string>/Users/Shared/Templates/tech_disk_pkg.adtmpl</string>
-<!--		<string>/Users/Shared/Templates/calibration.adtmpl</string>  -->
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/tech_disk_pkg.adtmpl</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

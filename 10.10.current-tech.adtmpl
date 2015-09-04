@@ -4,15 +4,15 @@
 <dict>
     <key>IncludeTemplates</key>
     <array>
-        <string>/Users/Shared/AutoDMG-Templates/iaml_payload.adtmpl</string>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/tech_disk_pkg.adtmpl</string>
     </array>
 	<key>ApplyUpdates</key>
 	<true/>
 	<key>SourcePath</key>
-	<string>/Volumes/IAML-DSServer/Users/Shared/Deploy/Masters/HFS/OSCache_20140703-10.9.4-13E28.hfs.dmg</string>
+	<string>/Volumes/IAML-AutoDMG/Users/Shared/OSInstallers/OS X 10.10.current/Install OS X Yosemite.app</string>
 	<key>TemplateFormat</key>
 	<string>1.0</string>
 	<key>VolumeName</key>
-	<string>IAML-Mav</string>
+	<string>IAML</string>
 </dict>
 </plist>

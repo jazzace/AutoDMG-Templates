@@ -4,16 +4,12 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Users/Shared/Installers/Audacity205.pkg</string>
-		<string>/Users/Shared/Installers/GarageBandExtraContent.pkg</string>
-		<string>/Users/Shared/Installers/Amadeus Pro 2.1.3.pkg</string>
-		<string>/Users/Shared/Installers/Max617_140421_keyserver.dmg</string>
-		<string>/Users/Shared/Installers/OSCforMax61.pkg</string>
-		<string>/Users/Shared/Installers/TouchOSC Editor.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/tech/Library/AutoPkg/Cache/com.github.timsutton.download.Max7/downloads/Max7.dmg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/OSC for Max 7.pkg</string>
 	</array>
 	<key>IncludeTemplates</key>
 	<array>
-		<string>/Users/Shared/Templates/LogicProWithAudio.adtmpl</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/LogicProWithAudio.adtmpl</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

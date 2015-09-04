@@ -10,7 +10,7 @@
     <true/>
     <key>IncludeTemplates</key>
     <array>
-        <string>/Users/Shared/Templates/iaml_payload_debug.adtmpl</string>
+        <string>/Users/Shared/AutoDMG-Templates/iaml_payload_debug.adtmpl</string>
     </array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

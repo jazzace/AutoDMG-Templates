@@ -4,17 +4,13 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Users/Shared/Installers/FCPContent.pkg</string>
-		<string>/Users/Shared/Installers/MotionContent.pkg</string>
-		<string>/Users/Shared/Installers/ProAppsCodecs105.dmg</string>
-		<string>/Users/Shared/Installers/iStopMotion3Lic.pkg</string>
-		<string>/Users/Shared/Installers/MPEG Streamclip.pkg</string>
-		<string>/Users/Shared/Installers/vlc-2.1.4.dmg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/FCPContent.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/MotionContent.pkg</string>
 	</array>
 	<key>IncludeTemplates</key>
 	<array>
-		<string>/Users/Shared/Templates/video-animation-apps.adtmpl</string>
-		<string>/Users/Shared/Templates/QuickTime7.adtmpl</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/video-animation-apps.adtmpl</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/QuickTime7.adtmpl</string>
 	</array>
 </dict>
 </plist>

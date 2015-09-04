@@ -6,7 +6,6 @@
 	<array>
 		<string>/Applications/Final Cut Pro.app</string>
 		<string>/Applications/Motion.app</string>
-		<string>/Applications/iStopMotion.app</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

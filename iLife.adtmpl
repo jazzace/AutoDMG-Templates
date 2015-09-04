@@ -4,15 +4,12 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Users/Shared/Installers/iDVD final.pkg</string>
-		<string>/Users/Shared/Installers/iDVDExtraContent.pkg</string>
 		<string>/Applications/iMovie.app</string>
-		<string>/Applications/iPhoto.app</string>
-		<string>/Users/Shared/Installers/RAWCameraUpdate5.05.dmg</string>
+		<string>/Applications/Photos.app</string>
 	</array>
 	<key>IncludeTemplates</key>
 	<array>
-		<string>/Users/Shared/Templates/GarageBand2013.adtmpl</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/GarageBand2015.adtmpl</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

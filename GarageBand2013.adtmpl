@@ -5,12 +5,13 @@
 	<key>AdditionalPackages</key>
 	<array>
 		<string>/Applications/GarageBand.app</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandCoreContent.pkg</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandPremiumContent.pkg</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsSongWriter.pkg</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsAlternative.pkg</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRock.pkg</string>
-		<string>/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRnB.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandCoreContent_v3.pkg</string>
+<!--		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBandExtraContent.pkg</string>  -->
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GarageBandPremiumContent.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsSongWriter.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsAlternative.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRock.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/GarageBand2013/MAContent10_GB_StereoDrumKitsRnB.pkg</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>
