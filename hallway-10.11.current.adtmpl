@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/hallway_payload.adtmpl</string>
+    </array>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Volumes/IAML-AutoDMG/Users/Shared/OSInstallers/OS X 10.11.current/Install OS X El Capitan.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>IAML2</string>
+</dict>
+</plist>

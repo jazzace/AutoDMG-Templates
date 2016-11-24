@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/create_ladmin-1.5.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/clearReg.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/TextWrangler.pkg</string>
+		<string>/Applications/Server.app</string>
+		<string>/Applications/Install OS X El Capitan.app</string>
+		<string>/Users/tech/Library/AutoPkg/Cache/com.github.andrewvalentine.install.SuspiciousPackageApp/downloads/SuspiciousPackage.dmg</string>
+		<string>/Users/tech/Library/AutoPkg/Cache/com.github.autopkg.cgerke-recipes.install.AutoDMG/downloads/AutoDMG.dmg</string>
+		<string>/Users/Shared/PackagingScratch/DoNotTouchDesktop/build/DoNotTouchDesktop.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/outset.pkg</string>
+		<string>/Users/Shared/Installers/MacDeployment2016/profiles-workshop.pkg</string>
+		<string>/Users/Shared/Installers/MacDeployment2016/CreateUserPkg-1.2.4.dmg</string>
+	</array>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Volumes/IAML-AutoDMG/Users/Shared/OSInstallers/OS X 10.11.current/Install OS X El Capitan.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>I</string>
+</dict>
+</plist>

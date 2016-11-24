@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>IncludeTemplates</key>
+    <array>
+        <string>/Volumes/VMware Shared Folders/Shared/AutoDMG-Templates/loaner_payload-VM.adtmpl</string>
+    </array>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Volumes/VMware Shared Folders/Shared/OSInstallers/macOS 10.12.current/Install macOS Sierra.app</string>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>IAML-HD</string>
+</dict>
+</plist>
