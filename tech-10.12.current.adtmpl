@@ -5,10 +5,14 @@
     <key>IncludeTemplates</key>
     <array>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/tech_disk_pkg.adtmpl</string>
-        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/fau-labs.adtmpl</string>
-        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/GarageBand2015content.adtmpl</string>
     </array>
+	<key>ApplyUpdates</key>
+	<true/>
+	<key>SourcePath</key>
+	<string>/Volumes/IAML-AutoDMG/Users/Shared/OSInstallers/macOS 10.12.current/Install macOS Sierra.app</string>
 	<key>TemplateFormat</key>
 	<string>1.0</string>
+	<key>VolumeName</key>
+	<string>IAML</string>
 </dict>
 </plist>

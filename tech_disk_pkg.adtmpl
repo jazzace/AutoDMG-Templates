@@ -4,9 +4,9 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/create_tech_2014.pkg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/create_tech_2017.pkg</string>
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/clearReg.pkg</string>
-		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/TextWrangler.pkg</string>
+		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/BBEdit.pkg</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

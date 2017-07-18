@@ -4,7 +4,7 @@
 <dict>
 	<key>AdditionalPackages</key>
 	<array>
-		<string>/Volumes/IAML-AutoDMG/Users/tech/Library/AutoPkg/Cache/com.github.timsutton.download.Max7/downloads/Max7.dmg</string>
+		<string>/Volumes/IAML-AutoDMG/Users/tech/Library/AutoPkg/Cache/local.download.Max7/downloads/Max7.dmg</string>
 		<string>/Volumes/DSServer/Users/Shared/Deploy/Packages/OSC for Max 7.pkg</string>
 	</array>
 	<key>IncludeTemplates</key>
