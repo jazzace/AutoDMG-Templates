@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/GarageBandBasicContent.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/JamPack1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/JamPack4_Instruments.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacy1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacyRemix.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacyRhythm.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacySymphony.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacyVoices.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_AppleLoopsLegacyWorld.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_GarageBand6Legacy.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_IRsSurround.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/MAContent10_Logic9Legacy.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/RemixTools_Instruments.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/RhythmSection_Instruments.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/Voices_Instruments.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2013/optional/WorldMusic_Instruments.pkg</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>

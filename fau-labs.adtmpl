@@ -6,7 +6,6 @@
 	<array>
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/create_fineartsuser.pkg</string>
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/Connect.pkg</string>
-		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/DesktopPics.pkg</string>
 	</array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>

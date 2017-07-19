@@ -7,10 +7,5 @@
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/FCPContent.pkg</string>
 		<string>/Volumes/IAML-AutoDMG/Users/Shared/Installers/MotionContent.pkg</string>
 	</array>
-	<key>IncludeTemplates</key>
-	<array>
-		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/video-animation-apps.adtmpl</string>
-		<string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/QuickTime7.adtmpl</string>
-	</array>
 </dict>
 </plist>

@@ -6,8 +6,6 @@
     <array>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/tech_disk_pkg.adtmpl</string>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/fau-labs.adtmpl</string>
-        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/iLife.adtmpl</string>
-        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/iWorkCurrent.adtmpl</string>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/audio.adtmpl</string>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/video-animation.adtmpl</string>
     </array>
