@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdditionalPackages</key>
+	<array>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0314_AppleLoopsHipHop1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0315_AppleLoopsElectroHouse1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0316_AppleLoopsDubstep1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0317_AppleLoopsModernRnB1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0320_AppleLoopsChillwave1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0321_AppleLoopsIndieDisco.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0323_AppleLoopsVintageBreaks.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0324_AppleLoopsBluesGarage.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0325_AppleLoopsGarageBand1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0354_EXS_PianoSteinway.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0371_EXS_GuitarsAcoustic.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0491_EXS_OrchBrass.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0509_EXS_StringsEnsemble.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0536_DrummerClapsCowbell.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0537_DrummerShaker.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0538_DrummerSticks.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0539_DrummerTambourine.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0540_PlugInSettingsGB.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0541_PlugInSettingsGBLogic.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/optional/MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2.pkg</string>
+        <string>/Users/Shared/Installers/garageband1020/2016/mandatory/MAContent10_AssetPack_0560_LTPBasicPiano1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0593_DrummerSoCalGBLogic.pkg</string>
+        <string>/Users/Shared/Installers/garageband1020/2016/mandatory/MAContent10_AssetPack_0597_LTPChordTrainer.pkg</string>
+        <string>/Users/Shared/Installers/garageband1020/2016/mandatory/MAContent10_AssetPack_0598_LTPBasicGuitar1.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0615_GBLogicAlchemyEssentials.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0637_AppleLoopsDrummerKyle.pkg</string>
+        <string>/Users/Shared/Installers/logicpro1032/2016/mandatory/MAContent10_AssetPack_0646_AppleLoopsDrummerElectronic.pkg</string>
+	</array>
+	<key>TemplateFormat</key>
+	<string>1.0</string>
+</dict>
+</plist>
