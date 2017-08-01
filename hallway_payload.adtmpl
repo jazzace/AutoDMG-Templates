@@ -6,7 +6,8 @@
     <array>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/tech_disk_pkg.adtmpl</string>
         <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/fau-labs.adtmpl</string>
-        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/GarageBand2015content.adtmpl</string>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/GarageBandMandatoryViaLogic.adtmpl</string>
+        <string>/Volumes/IAML-AutoDMG/Users/Shared/AutoDMG-Templates/GarageBandOptionalViaLogic.adtmpl</string>
     </array>
 	<key>TemplateFormat</key>
 	<string>1.0</string>
