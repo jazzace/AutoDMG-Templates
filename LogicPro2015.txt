@@ -1,5 +1,0 @@
-audiocontentdownload.apple.com/lp10_ms3_content_2015/ProAudioCoreContent10.pkg
-audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsCinematic.pkg
-audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_ElectronicDrumKits.pkg
-audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_InstrumentsMellotron.pkg
-audiocontentdownload.apple.com/lp10_ms3_content_2015/MAContent10_IRsStereo.pkg
